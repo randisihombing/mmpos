@@ -15,9 +15,7 @@ password : kasir
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Sistem ini menggunakan CI 3 dan framework Sb Admin
 
 **************************
 Changelog and New Features
