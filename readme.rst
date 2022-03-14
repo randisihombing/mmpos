@@ -8,6 +8,9 @@ password : admin
 Kasir 
 username : kasir
 password : kasir
+
+
+
 *******************
 Release Information
 *******************
